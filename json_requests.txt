@@ -1,0 +1,9 @@
+USERS
+{ "username" : "admin", "password" : "admin" }
+
+AUTHORS
+{ "first_name" : "kai", "last_name" : "Rod" }
+
+BOOKS
+{ "title" : "Cat Development", "year" : 2020, "author_id" : 5 }
+        
